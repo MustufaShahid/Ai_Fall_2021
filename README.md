@@ -1,7 +1,7 @@
 # Ai_Fall_2021
 
 ## GROUP PARTNERS:
-Mustufa Shahid(64242)
+Mustufa Shahid(64242) and 
 Abdul Wajid Khan(62584)
 
 # INTRODUCTION OF GROUP PARTNERS:
