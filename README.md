@@ -11,4 +11,6 @@ Abdul Wajid Khan(62584)
 
 [[nov21 - KaggleCompetition/score1.PNG]]
 
+# SUBMISSION SCREENSHOT FOR ASSIGNMENT2: (KAGGLE DUMMY SUBMISSION)
+
 ![](nov21%20-%20KaggleCompetition/score1.PNG)
