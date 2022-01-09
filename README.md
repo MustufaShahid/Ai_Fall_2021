@@ -16,5 +16,7 @@ Abdul Wajid Khan(62584)
 
 # SUBMISSION SCREENSHOT FOR ASSIGNMENT3: (NAIVEBYES)
 
+## We approached in a manner that even if we unable to solve the complete problem we will try our best to get the desired results.
+
 ![](Assign02-Naive%20Bayes/submission3.png)
 
