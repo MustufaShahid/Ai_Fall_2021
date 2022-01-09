@@ -14,9 +14,11 @@ Abdul Wajid Khan(62584)
 
 ![](nov21%20-%20KaggleCompetition/score1.PNG)
 
+# ASSIGNMENT 3 REPORTING:
+**We approached in a manner that even if we unable to solve the complete problem we will try our best to get the desired results.**
+**We faced a lot of problems in terms of errors and not understanding the exact problem, also there was burden of different assignments/quizzes to submit so time management was also a real problem**
+**Reference: https://www.analyticsvidhya.com/blog/2017/09/naive-bayes-explained/**
+
 # SUBMISSION SCREENSHOT FOR ASSIGNMENT3: (NAIVEBYES)
-
-## We approached in a manner that even if we unable to solve the complete problem we will try our best to get the desired results.
-
 ![](Assign02-Naive%20Bayes/submission3.png)
 
