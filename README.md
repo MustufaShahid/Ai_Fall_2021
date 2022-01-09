@@ -11,4 +11,4 @@ Abdul Wajid Khan(62584)
 
 [[nov21 - KaggleCompetition/score1.PNG]]
 
-![](nov21 - KaggleCompetition/score1.PNG)
+![](nov21%20-%20KaggleCompetition/score1.PNG)
