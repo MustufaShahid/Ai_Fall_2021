@@ -28,5 +28,7 @@ Abdul Wajid Khan(62584)
 
 **The Refrence We use Somen youtube videos and some google Documentaiions of Help of Our Lab Teacher.**
 
+![](Project/Submission.png)
+
 **The Performance Of Each model 4 models have almost same accuracy around 57% and other two has 0.124 and 0.174.**
 
